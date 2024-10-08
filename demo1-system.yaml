@@ -1,0 +1,12 @@
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: demo1
+  description: demo
+  labels:
+    stage: test
+    platform-engineer.cloud/creator: backstage-template
+spec:
+  team: uibklab

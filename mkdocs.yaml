@@ -1,0 +1,8 @@
+site_name: "demo1"
+site_description: "Documentation for demo1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
